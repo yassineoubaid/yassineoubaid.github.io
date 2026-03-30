@@ -255,6 +255,9 @@ strong { color: var(--text); }
 .card {
   padding: 1.45rem;
 }
+#experience-panel {
+  scroll-margin-top: 6.5rem;
+}
 .wide-card {
   margin-top: 1.4rem;
 }
